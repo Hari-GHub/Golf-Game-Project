@@ -1,2 +1,2 @@
-# Python-projects
-Consisting of practicals and projects taught in Problem Solving and Programming in Python
+# Python-project
+Final project done for Problem Solving and Programming in Python.
